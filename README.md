@@ -1,3 +1,4 @@
 # OnlineBankingAPI
 A RESTful API for banking online
-![Image description](ExploreMoreHomePage.png)
+Your online piggy bank!
+![Image description](Piggy_bank.jpg)
